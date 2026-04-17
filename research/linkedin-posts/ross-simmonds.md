@@ -61,6 +61,8 @@ Pattern:
 * Data-driven hook
 * Contrarian insight
 * Actionable shift (focus on post-sale experience)
+<img width="800" height="507" alt="image" src="https://github.com/user-attachments/assets/1754dba2-00f4-472a-850c-1b0170fd7dc6" />
+
 
 ---
 

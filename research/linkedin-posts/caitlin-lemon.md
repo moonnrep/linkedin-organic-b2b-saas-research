@@ -247,9 +247,14 @@ Do this:
 
 ## Source Links
 
-- LinkedIn Post 1: Career → Data Analysis  
-- LinkedIn Post 2: AI Strategy vs Tool-First Thinking  
-- LinkedIn Post 3: Frameworks vs Strategists  
-- Case Study: Content Analytics → Strategic Recommendations  
-- Project: Customer Insights + Persona-Based GTM Strategy  
+- LinkedIn Post 1: Career → Data Analysis
+> https://www.linkedin.com/posts/caitlinlemon_strategist-careerchange-dataanalytics-activity-7446909609077972992-5IxK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0RJCEB8WP-QLGcqKLluo9Ci1_-4zr0S2c
+- LinkedIn Post 2: AI Strategy vs Tool-First Thinking
+> https://www.linkedin.com/posts/caitlinlemon_promptengineering-strategy-businessstrategy-activity-7449795581197049857-dh-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0RJCEB8WP-QLGcqKLluo9Ci1_-4zr0S2c  
+- LinkedIn Post 3: Frameworks vs Strategists
+> https://www.linkedin.com/posts/caitlinlemon_insightsanalyst-strategy-aistrategy-activity-7450894588489285632-k9Fc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0RJCEB8WP-QLGcqKLluo9Ci1_-4zr0S2c  
+- Case Study: Content Analytics → Strategic Recommendations
+> https://media.journoportfolio.com/users/259971/uploads/f7eed8c5-6efb-4cd1-8862-bc077bde3489.pdf  
+- Project: Customer Insights + Persona-Based GTM Strategy
+> https://docs.google.com/document/d/1OoNVkIed01ovpliyM50-q855hMD-9G25uhqKRLaWTys/edit?tab=t.0
 ---

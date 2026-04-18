@@ -21,35 +21,35 @@ Buyers today:
 - form opinions before demos
 - choose who to trust early
 
-This makes LinkedIn content a critical part of modern GTM strategy — especially in SaaS, where differentiation is hard and trust is everything.
+This research focuses on how experienced operators use LinkedIn as a **demand generation and pre-sales channel**, not just a content platform.
 
 ---
 
 ## Methodology
-This research is based on content from **10 high-signal practitioners** actively operating in B2B SaaS, GTM, and LinkedIn growth.
-We intentionally selected:
-- operators (not theorists)
-- people sharing real execution
-- content tied to outcomes (pipeline, revenue, demand)
+### Expert Selection
+10+ high-signal operators were selected based on:
+- Active LinkedIn presence
+- Direct involvement in B2B SaaS / GTM / Sales
+- Content rooted in execution (not generic advice)
 
-### Sources collected:
-- LinkedIn posts (primary source)
-- LinkedIn long-form articles
-- Selected external materials (if relevant)
+### Data Collection
+- LinkedIn posts → manually curated for signal (no official public API available)
+- LinkedIn articles → long-form insights
+- Supporting materials → frameworks, GTM thinking
 
-### Collection approach:
-- Manual scraping and structuring (no public LinkedIn API available)
-- Focus on **recent content (2024–2025)**
-- Prioritized **depth over volume**
+Note:
+LinkedIn does not provide a reliable public API for post extraction, so high-signal manual curation was used intentionally.
+YouTube transcript collection structure is prepared, but not prioritized due to stronger signal density on LinkedIn-native content.
 
 ---
 
 ## Repository Structure
 /research  
-- `sources.md` → expert list, links, and annotations  
-- `linkedin-posts/` → curated posts grouped by author  
-- `youtube-transcripts/` → transcripts (if applicable)  
-- `other/` → supporting materials  
+- sources.md → expert list with links, dates, annotations  
+- linkedin-posts → curated posts per expert  
+- youtube-transcripts → (structure prepared)  
+- other → supporting materials  
+- README.md → synthesized insights & patterns 
 
 ---
 

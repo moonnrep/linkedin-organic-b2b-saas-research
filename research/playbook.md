@@ -209,9 +209,6 @@ This system runs in cycles:
 - repurposing increases reach
 
 **My take:**
-Ross is approach is more scalable early.
-
-**My take:**
 Multi-format is more scalable in early stages because it increases distribution surface area.
 
 However, text-first content becomes more effective in niche, high-trust audiences where depth matters more than reach.
